@@ -1,11 +1,6 @@
-# "Daytona restaurant"
-"Daytona restaurant" proekti
+# "B7"
+Rasm ustida ishlash
 
-Shahar markazida 
+Rasmga RGB rang berish
 
-Modern, noe-klassika uslubida
-
-200 ta odamga mo`ljallangan
-
-70 ta avtomobilga mo`ljallangan avtoturargoh 
-
+Rasmni o`lchamlari ustida ishlash
